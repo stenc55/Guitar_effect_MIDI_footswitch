@@ -12,6 +12,9 @@ Box is 3d printed with wood filament, but any filament can be used. I printed it
 The way that ToneLib works, when bank is changed, first preset is always active, so first led will lit. others will be on when respective presets are selected. It does not pull preset state from Tonelib, it is programmed that way. 
 Switches are fi7mm momentary non latching. If you use different switches, drill bigger holes in cover plates. 
 Cover plates are screwed with 3x8mm wood screws, all other is crewed with M3 different lengths.
+
+Original code belongs to https://www.notesandvolts.com/2016/04/arduino-midi-controller-buttons.html !
+
 ![IMG_20221103_191115](https://user-images.githubusercontent.com/68291385/205467280-94868e8b-c3e7-41e0-a836-838e557ae26f.jpg)
 ![IMG_20221103_191126](https://user-images.githubusercontent.com/68291385/205467282-0541f40b-c8e5-4357-940a-d4fe8602ea99.jpg)
 ![IMG_20221109_201814](https://user-images.githubusercontent.com/68291385/205467284-79582783-f2d6-4762-b9cf-e693125a4cfe.jpg)
